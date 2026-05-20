@@ -1,0 +1,13 @@
+{
+  "name": "Resume Maker by Loomix Studios",
+  "short_name": "Resume Maker",
+  "description": "Free online resume maker with 10 templates and instant PDF export.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08070a",
+  "theme_color": "#08070a",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

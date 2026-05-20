@@ -1,0 +1,6 @@
+# robots.txt for Resume Maker by Loomix Studios
+User-agent: *
+Allow: /
+
+# Block nothing — single-page app, all content is public
+Sitemap: https://resume.loomixstudios.in/sitemap.xml
